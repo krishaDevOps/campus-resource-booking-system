@@ -1,11 +1,7 @@
-# campus-resource-booking-system
-A Node.js and MySQL based resource booking system that manages campus resources, reservations, availability checking, and booking operations through a backend application.
 # Campus Resource Booking System
-
 A Node.js and MySQL based backend application designed to manage campus resources and booking operations efficiently.
 
 ## Project Overview
-
 Campus Resource Booking System allows users to view available resources, create bookings, update reservations, cancel bookings, and check booking history through a simple command-line interface.
 
 The project demonstrates database management, CRUD operations, MySQL relationships, and backend logic using Node.js.
@@ -55,3 +51,13 @@ Campus-Resource-Booking-System
 │
 ├── .gitignore
 └── README.md
+
+## Application Screenshots
+- Main Menu
+- View Resources
+- Booking Created
+- Booking History
+- Update Booking
+- Cancel Booking
+
+
